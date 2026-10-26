@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GEO Solutions is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.geosolutions.be
+GEO Solutions, operating under the GeoSquare brand, provides flexible and scalable geo‑intelligence applications and APIs for public services, utilities, transport, and industrial sectors across the Benelux region. With over 250 employees and 350+ satisfied customers, they help organizations turn location data into measurable impact through solutions like interactive geo‑portals, mobility data, route optimization, address validation, and AI‑assisted mapping.
+
+**Areas:** Geo · GIS · Location-Intelligence · APIs · Belgium
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://geosquare.be)
+- [Support](https://support.geosolutions.be/otwg20/#/login?guestlogin=12)
+- [Blog](https://geosquare.be/blog)
+- [Privacy policy](https://geosquare.be/nl-be/privacy-policy?hsLang=nl-be)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/geo-solutions/](https://apis.io/providers/geo-solutions/).
